@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627001930113",
+    "project_id": "agriguard-c79c8",
+    "storage_bucket": "agriguard-c79c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627001930113:android:74776e278dc03a346db880",
+        "android_client_info": {
+          "package_name": "apprelease.agriguard.darkmatterdevelopers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW_QYZO6mXBc98miVJitxk50V5H2fF6yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
