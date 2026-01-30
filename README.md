@@ -15,6 +15,7 @@ We kindly request the judges to install the APK and experience the demo firsthan
 Demo Login Credentials (Prototype):
 
 Email: farmer@gmail.com
+
 Password: farmer123
 
 ⚠️ Note: The SMS feature is currently not functional in this prototype version.
