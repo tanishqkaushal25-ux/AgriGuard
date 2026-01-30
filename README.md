@@ -8,7 +8,7 @@ Welcome to the AgriGuard repository. This folder contains all the resources rela
 
 ## 📱 Application APK
 
-At the top level of the AgriGuard folder, you will find the APK file of the application we developed.
+At the top level in the AgriGuard folder, you will find the APK file of the application we developed.
 
 We kindly request the judges to install the APK and experience the demo firsthand.
 
