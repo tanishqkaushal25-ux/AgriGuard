@@ -1,6 +1,6 @@
-# AgriGuard - 📁 Repository Overview 
+# AgriGuard  
 An AI Integrated Mobile Application for Pest and Disease Detection and Crop Monitoring.
-Welcome to the AgriGuard repository. This folder contains all the resources related to our project, including the working application, demo materials, and complete source code.
+
 
 ## 📁 Repository Overview – AgriGuard
 
