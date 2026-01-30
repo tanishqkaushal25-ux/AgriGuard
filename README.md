@@ -21,17 +21,22 @@ Password: farmer123
 ⚠️ Note: The SMS feature is currently not functional in this prototype version.
 All other features are fully operational and work exactly as demonstrated in the demo video.
 
-## 🎥 Field Testing & Farmer Feedback Video
+## 🎥 Field Testing & Farmer Feedback (Video)
 
-You will also find a video recording where we took AgriGuard to real farmers and tested the application in real-world conditions.
+We have documented the real-world testing of AgriGuard by taking the application directly to farmers and observing its usage in practical conditions.
 
 The video includes:
 
-Hands-on usage by farmers
+Live testing of the application by farmers
 
-Honest feedback and a review from one of the farmers
+Genuine feedback and a review from one of the farmers
 
-We highly encourage you to watch this video to better understand the real impact and usability of the solution.
+📎 Video Link (Google Drive):
+👉 https://drive.google.com/file/d/13JBcDQM3xyIk77CBDcplfIuSKGekL-Zr/view?usp=drive_link
+
+Or Can Simply Download the MP4 file showing up in the folder
+
+We strongly recommend watching this video to better understand the usability, relevance, and on-ground impact of AgriGuard.
 
 ## 🛠️ Project Source Code
 
